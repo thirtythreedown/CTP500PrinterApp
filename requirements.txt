@@ -1,0 +1,2 @@
+pillow>=10.1
+pyobjc-framework-IOBluetooth; sys_platform == "darwin"
